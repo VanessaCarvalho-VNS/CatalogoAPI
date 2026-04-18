@@ -1,5 +1,11 @@
 # 🗂️ CatalogoAPI
 
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-Web_API-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-7F5AF0?style=flat&logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-Docs-85EA2D?style=flat&logo=swagger&logoColor=black)
+
 API REST para gerenciamento de produtos e categorias desenvolvida com **Minimal API no .NET 8**, abordagem moderna que substitui os Controllers tradicionais por endpoints enxutos e organizados por domínio.
 
 ## 🚀 Funcionalidades
